@@ -95,7 +95,7 @@ create Provider
     }
 
 
-app.js
+app js
 
   <UsersProvider>
 
